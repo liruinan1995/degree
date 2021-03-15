@@ -1,0 +1,15 @@
+/Users/liruinan/code/game/degree/bin/Debug/net5.0/Degree.deps.json
+/Users/liruinan/code/game/degree/bin/Debug/net5.0/Degree.runtimeconfig.json
+/Users/liruinan/code/game/degree/bin/Debug/net5.0/Degree.runtimeconfig.dev.json
+/Users/liruinan/code/game/degree/bin/Debug/net5.0/Degree.dll
+/Users/liruinan/code/game/degree/bin/Debug/net5.0/ref/Degree.dll
+/Users/liruinan/code/game/degree/bin/Debug/net5.0/Degree.pdb
+/Users/liruinan/code/game/degree/obj/Debug/net5.0/Degree.csprojAssemblyReference.cache
+/Users/liruinan/code/game/degree/obj/Debug/net5.0/Degree.GeneratedMSBuildEditorConfig.editorconfig
+/Users/liruinan/code/game/degree/obj/Debug/net5.0/Degree.AssemblyInfoInputs.cache
+/Users/liruinan/code/game/degree/obj/Debug/net5.0/Degree.AssemblyInfo.cs
+/Users/liruinan/code/game/degree/obj/Debug/net5.0/Degree.csproj.CoreCompileInputs.cache
+/Users/liruinan/code/game/degree/obj/Debug/net5.0/Degree.dll
+/Users/liruinan/code/game/degree/obj/Debug/net5.0/ref/Degree.dll
+/Users/liruinan/code/game/degree/obj/Debug/net5.0/Degree.pdb
+/Users/liruinan/code/game/degree/obj/Debug/net5.0/Degree.genruntimeconfig.cache
